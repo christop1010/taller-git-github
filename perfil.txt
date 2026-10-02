@@ -1,0 +1,3 @@
+habilidades: python, html, css, git.
+metas: aprender a programar y llegar a ser un gran programador
+
